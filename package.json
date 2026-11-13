@@ -1,0 +1,12 @@
+{
+  "name": "widespread-tools",
+  "version": "0.1.0",
+  "description": "Widespread protocol client helpers — MCP endpoint config + tool descriptors for LangChain/Vercel AI SDK/agents",
+  "license": "MIT",
+  "author": "TerexitariusStomp",
+  "type": "module",
+  "main": "index.js",
+  "exports": { ".": "./index.js" },
+  "repository": { "type": "git", "url": "https://github.com/TerexitariusStomp/widespread-bridge" },
+  "keywords": ["mcp", "agents", "bounties", "llm", "tools"]
+}
